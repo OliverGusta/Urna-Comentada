@@ -2,6 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
+//LINK PARA ACESSO AO CHAT DA IA QUE AUXILIOU NOS COMENTÁRIOS --> https://claude.ai/share/c0bc6468-829c-4b2e-a593-9edc6895650e
+
+
 package com.mycompany.urnadigital;
 
 
@@ -10,7 +13,7 @@ import java.util.List; // Importar a classe de listas que forma um "contrato" qu
 import java.util.ArrayList; // Importar a classe de ArrayList para armazenamento dos dados e implementação dos métodos da classe list
 /**
  *
- * @author user
+ * @author joaofranco
  */
 public class UrnaDigital {
 
